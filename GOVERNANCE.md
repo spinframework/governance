@@ -39,6 +39,7 @@ The Spin Framework organization consists of many projects or codebases with diff
 - Example Spin Applications
   - [Spin Fileserver](https://github.com/spinframework/spin-fileserver)
   - [Spin Redirect](https://github.com/spinframework/spin-redirect)
+  - [Spin Code Sandbox](https://github.com/spinframework/spin-code-sandbox)
 - Orchestrators - Projects that enable deploying and managing Spin applications in operational environments.
   - [SpinKube](https://github.com/spinframework/spinkube)
 
